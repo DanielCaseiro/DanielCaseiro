@@ -1,12 +1,14 @@
 <h1>Hi, I'm Daniel! <br/> I'm a Junior Software Developer</h1>
 
-<h2>👨‍💻 Data Analytics Projects:</h2>
+<h2> Full-Stack projects: </h2>
 
-- <b>Python</b>
-  - [London Bike Rides (data transformation using Python in Google Colab)](https://github.com/DanielCaseiro/Project_london_bikes)
-- <b>Tableau</b>
-  - [London Bike Rides Dashboard](https://public.tableau.com/app/profile/daniel.caseiro/viz/London_Bikes_Recreated/Dashboard1)
-  - [Covid in the EU 2020-2024 Dashboard](https://public.tableau.com/app/profile/daniel.caseiro/viz/CovidintheEU2020-2024/Dashboard1)
+- [Cesae Certificate Generation Platform](https://github.com/laisvigas/cesae-certificates)
+
+<h2> Data Analytics Projects:</h2>
+
+- [London Bike Rides (data transformation using Python in Google Colab; Dashboard in Tableau)](https://github.com/DanielCaseiro/Project_london_bikes)
+- [Covid in the EU 2020-2024 Tableau Dashboard](https://public.tableau.com/app/profile/daniel.caseiro/viz/CovidintheEU2020-2024/Dashboard1)
+
 
 
 
