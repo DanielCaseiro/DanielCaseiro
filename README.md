@@ -14,9 +14,13 @@
 
 - [Game Up - gamified gym (HTML, CSS, JS, Bootstrap)](https://github.com/laisvigas/Game-Up)
 
+<h2> Mobile projects:</h2>
+
+- [Android App (Kotlin)](https://github.com/DanielCaseiro/CESAE_SoftDev/tree/main/Mobile%20-%20Android/ANDROID_danielCaseiro)
+
 <h2> QA projects:</h2>
 
-- [London Bike Rides (data transformation using Python in Google Colab; Dashboard in Tableau)](https://github.com/DanielCaseiro/Project_london_bikes)
+- [Election System (Java/JUnit)](https://github.com/DanielCaseiro/CESAE_SoftDev/tree/main/QA%20-%20Quality%20Assurance/TP_QA)
 
 <h2> Data Analytics projects:</h2>
 
