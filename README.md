@@ -6,14 +6,19 @@
 
   <h2> Back-end projects: </h2>
 
+- [Resort Management System (Java)](https://github.com/DanielCaseiro/CESAE_SoftDev/tree/main/Back-end/Software%20Design%20Patterns/TP_DPT_CesaeResort)
 - [Movie Management System (Java)](https://github.com/DanielCaseiro/CESAE_SoftDev/tree/main/Java/Algoritmia%20e%20Programacao%20Estruturada/TP_PE_DanielCaseiro/src)
-- [Text-base RPG (Java)]()
+- [Text-base RPG (Java)](https://github.com/DanielCaseiro/CESAE_SoftDev/tree/main/Back-end/ProgramacaoOrientadaObjetos/TP_POO_danielcaseiro/Trabalho_Final_DanielCaseiro)
 
   <h2> Front-end projects: </h2>
 
 - [Game Up - gamified gym (HTML, CSS, JS, Bootstrap)](https://github.com/laisvigas/Game-Up)
 
-<h2> Data Analytics Projects:</h2>
+<h2> QA projects:</h2>
+
+- [London Bike Rides (data transformation using Python in Google Colab; Dashboard in Tableau)](https://github.com/DanielCaseiro/Project_london_bikes)
+
+<h2> Data Analytics projects:</h2>
 
 - [London Bike Rides (data transformation using Python in Google Colab; Dashboard in Tableau)](https://github.com/DanielCaseiro/Project_london_bikes)
 - [Covid in the EU 2020-2024 Tableau Dashboard](https://public.tableau.com/app/profile/daniel.caseiro/viz/CovidintheEU2020-2024/Dashboard1)
