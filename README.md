@@ -2,7 +2,15 @@
 
 <h2> Full-Stack projects: </h2>
 
-- [Cesae Certificate Generation Platform](https://github.com/laisvigas/cesae-certificates)
+- [Cesae Certificate Generation Platform (Laravel)](https://github.com/laisvigas/cesae-certificates)
+
+  <h2> Back-end projects: </h2>
+
+- [Movie Management System using Java](https://github.com/DanielCaseiro/CESAE_SoftDev/tree/main/Java/Algoritmia%20e%20Programacao%20Estruturada/TP_PE_DanielCaseiro/src)
+
+  <h2> Front-end projects: </h2>
+
+- [Game Up - gamified gym](https://github.com/laisvigas/Game-Up)
 
 <h2> Data Analytics Projects:</h2>
 
