@@ -6,13 +6,13 @@ I'm a Junior Software Developer with a solid foundation in both front-end and ba
 
 - [Certificate Generation Platform (Laravel](https://github.com/laisvigas/cesae-certificates)
 
-  ### Back-end projects:
+### Back-end projects:
 
 - [Resort Management System (Java)](https://github.com/DanielCaseiro/CESAE_SoftDev/tree/main/Back-end/Software%20Design%20Patterns/TP_DPT_CesaeResort)
 - [Movie Management System (Java)](https://github.com/DanielCaseiro/CESAE_SoftDev/tree/main/Java/Algoritmia%20e%20Programacao%20Estruturada/TP_PE_DanielCaseiro/src)
 - [Text-base RPG (Java)](https://github.com/DanielCaseiro/CESAE_SoftDev/tree/main/Back-end/ProgramacaoOrientadaObjetos/TP_POO_danielcaseiro/Trabalho_Final_DanielCaseiro)
 
-  ### Front-end projects:
+### Front-end projects:
 
 - [Game Up - gamified gym website (HTML, CSS, JS, Bootstrap)](https://github.com/laisvigas/Game-Up)
 
