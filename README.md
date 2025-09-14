@@ -4,7 +4,7 @@ I'm a Junior Software Developer with a solid foundation in both front-end and ba
 
 ### Full-Stack projects:
 
-- [Certificate Generation Platform (Laravel](https://github.com/laisvigas/cesae-certificates)
+- [Certificate Generation Platform (Laravel)](https://github.com/laisvigas/cesae-certificates)
 
 ### Back-end projects:
 
