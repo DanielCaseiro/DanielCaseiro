@@ -14,7 +14,7 @@ I'm a Junior Software Developer with a solid foundation in both front-end and ba
 
   ### Front-end projects:
 
-- [Game Up - gamified gym (HTML, CSS, JS, Bootstrap)](https://github.com/laisvigas/Game-Up)
+- [Game Up - gamified gym website (HTML, CSS, JS, Bootstrap)](https://github.com/laisvigas/Game-Up)
 
 ### Mobile projects:
 
@@ -26,7 +26,7 @@ I'm a Junior Software Developer with a solid foundation in both front-end and ba
 
 ### Data Analytics projects:
 
-- [London Bike Rides (data transformation using Python in Google Colab; Dashboard in Tableau)](https://github.com/DanielCaseiro/Project_london_bikes)
+- [London Bike Rides (Python, Tableau)](https://github.com/DanielCaseiro/Project_london_bikes)
 - [Covid in the EU 2020-2024 Tableau Dashboard](https://public.tableau.com/app/profile/daniel.caseiro/viz/CovidintheEU2020-2024/Dashboard1)
 
 
