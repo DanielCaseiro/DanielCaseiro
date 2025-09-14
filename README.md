@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/> I'm a Junior Software Developer</h1>
+<h1>Hi, I'm Daniel! <br/> I'm a Junior Software Developer with a solid foundation in both front-end and back-end development. My experience includes projects built with Java and Laravel, with a preference for back-end and data analytics technologies. I'm a continuous learner eager to contribute and expand my skills in a new role.</h1>
 
 <h2> Full-Stack projects: </h2>
 
